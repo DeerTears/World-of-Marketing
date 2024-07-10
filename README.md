@@ -1,4 +1,8 @@
-Hi! This is my personal journal where I document everything I've learned about writing for an audience.
+# Welcome to the World of Marketing!
+
+This is an obsidian vault, [install Obsidian](https://obsidian.md/) and load this vault to see it in full, complete with proper internal links.
+
+Anyway, hi! This is my personal journal where I document everything I've learned about writing for an audience.
 
 Despite the name, this notebook not only covers **marketing**, but also:
 - technical writing

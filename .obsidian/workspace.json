@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8aa6fb9e43e32e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ask engaging questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7b2f4aab5dd86fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today's Labelmate Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f430a78b461fb465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Search Console.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63660cc0354a384f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "2009624011edb216",
@@ -160,9 +209,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6972bc31ff5a7620",
+  "active": "63660cc0354a384f",
   "lastOpenFiles": [
-    "Welcome.md",
-    "README.md"
+    "Google Analytics.md",
+    "Google Search Console.md",
+    "Today's Labelmate Series.md",
+    "Pasted image 20240710132741.png",
+    "Ask engaging questions.md",
+    "README.md",
+    "Welcome.md"
   ]
 }
