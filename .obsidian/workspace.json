@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2e52cd6e8f88f3f",
+            "id": "6972bc31ff5a7620",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,8 +160,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2e52cd6e8f88f3f",
+  "active": "6972bc31ff5a7620",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "README.md"
   ]
 }
