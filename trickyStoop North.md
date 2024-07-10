@@ -1,0 +1,3 @@
+The label that I help run. I have since taken over social media accounts for it. I am taking notes on what was done with the account previously to try and best match the brand voice and approach of the account, while still feeling creative freedom to try new things and new "styles" of posting.
+
+The main goal for me, as the social media manager, is just to post more frequently than the old runner did, where they were balancing a lot of other label responsibilities before handing the accounts off to me. I want to try and utilize my personal experience running my own twitter account based on [[Furry Music]] and improve people's knowledge of trickyStoop North while engaging with the [[Furry Music]] community at large.

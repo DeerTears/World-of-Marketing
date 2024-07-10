@@ -1,0 +1,1 @@
+From my experience, usually a good engagement on text-only posts are hard. 
