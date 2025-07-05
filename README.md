@@ -13,7 +13,7 @@ Despite the name, this notebook not only covers **marketing**, but also:
 Within the realm of marketing I hope to take sufficient notes in the following topics as I bolster my skills:
 - [[Copywriting]]
 - [[SEO Optimization]]
-- [[Keyword Hunting]]
+- [[Keyword Research]]
 - Maintaining a [[Brand Voice]] for multiple brands
 
 I may also talk about my experiences doing some of this work for organizations that I'm a part of when it becomes useful to mention a real-world example.

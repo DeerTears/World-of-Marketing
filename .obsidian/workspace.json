@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "276e07e7f2000344",
+        "id": "7de206e738ecbc7f",
         "type": "tabs",
         "children": [
           {
-            "id": "469ef05a990a9d4b",
+            "id": "c5ed4ea0a1798368",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tracking Website Traffic in Google Analytics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tracking Website Traffic in Google Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tracking Website Traffic in Google Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tracking Website Traffic in Google Analytics.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,14 +145,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "469ef05a990a9d4b",
+  "active": "c5ed4ea0a1798368",
   "lastOpenFiles": [
-    "The plan.md",
+    "Tracking Website Traffic in Google Analytics.md",
+    "Grammarly.md",
+    "Security.md",
+    "Proofreading techniques.md",
+    "Keep in mind of data breaches.md",
+    "README.md",
+    "Keyword Hunting.md",
+    "SEO Optimization.md",
+    "My experience utilizing Keyword Research.md",
     "Keyword Research.md",
     "Google Trends.md",
     "Pasted image 20240710141829.png",
     "Google Search Console.md",
-    "Keep in mind of data breaches.md",
     "Pasted image 20240710140506.png",
     "Pasted image 20240710140258.png",
     "Google Analytics.md",
@@ -154,7 +168,6 @@
     "trickyStoop North.md",
     "Today's Labelmate Series.md",
     "Show too much in a teaser.md",
-    "README.md",
     "Provide an image or video where possible.md",
     "Provide reviews and recaps on recent events.md",
     "Pasted image 20240710132741.png",

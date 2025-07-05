@@ -1,0 +1,3 @@
+While working at [[GDQuest]] grammarly was a huge help for wording sentences more clearly. My goal was always to write for a general audience, to avoid using technical language, and to make sure that sentences are always in the present tense and objective-focused.
+
+I want my writing to be easy for anyone to read. My sentences should be focused on one topic, not confused and difficult to parse their meaning.
